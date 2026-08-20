@@ -5162,9 +5162,9 @@ __metadata:
   linkType: hard
 
 "flatted@npm:^3.2.9":
-  version: 3.4.2
-  resolution: "flatted@npm:3.4.2"
-  checksum: 10c0/a65b67aae7172d6cdf63691be7de6c5cd5adbdfdfe2e9da1a09b617c9512ed794037741ee53d93114276bff3f93cd3b0d97d54f9b316e1e4885dde6e9ffdf7ed
+  version: 3.4.4
+  resolution: "flatted@npm:3.4.4"
+  checksum: 10c0/a3a52a88ea5a4c333e5a1f097dcd87a037fa31c236a77cf46222c2aa4036ef895ab9bc76138a66d9dc22bdb3652128f9598cd26e7439561bf19f67276e2bc37e
   languageName: node
   linkType: hard
 
@@ -6473,11 +6473,11 @@ __metadata:
   linkType: hard
 
 "minimatch@npm:^3.0.5, minimatch@npm:^3.1.1, minimatch@npm:^3.1.2":
-  version: 3.1.2
-  resolution: "minimatch@npm:3.1.2"
+  version: 3.1.5
+  resolution: "minimatch@npm:3.1.5"
   dependencies:
     brace-expansion: "npm:^1.1.7"
-  checksum: 10c0/0262810a8fc2e72cca45d6fd86bd349eee435eb95ac6aa45c9ea2180e7ee875ef44c32b55b5973ceabe95ea12682f6e3725cbb63d7a2d1da3ae1163c8b210311
+  checksum: 10c0/2ecbdc0d33f07bddb0315a8b5afbcb761307a8778b48f0b312418ccbced99f104a2d17d8aca7573433c70e8ccd1c56823a441897a45e384ea76ef401a26ace70
   languageName: node
   linkType: hard
 
@@ -7257,14 +7257,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"postcss@npm:^8.5.23":
-  version: 8.5.23
-  resolution: "postcss@npm:8.5.23"
+"postcss@npm:^8.5.24":
+  version: 8.5.24
+  resolution: "postcss@npm:8.5.24"
   dependencies:
     nanoid: "npm:^3.3.16"
     picocolors: "npm:^1.1.1"
     source-map-js: "npm:^1.2.1"
-  checksum: 10c0/ed714e635b330bb42666ecdd0c0b4f30224ded15b0b0052d6bc2b92832f2cf17d1c1141359453f96f0a84f8fbf4c405a74df187f559163b8f31131b2535455aa
+  checksum: 10c0/b3854840ffee4604249a1bad97291105a974009d63b068b716dbee1d2e034bb965353a9fb4d6e957ede475b2acf4167cd4b1d41074f8dd3ce2fe488b60c8ce44
   languageName: node
   linkType: hard
 
@@ -8291,7 +8291,7 @@ __metadata:
     lodash: "npm:^4.18.1"
     next: "npm:^15.5.21"
     next-translate: "npm:^2.6.2"
-    postcss: "npm:^8.5.23"
+    postcss: "npm:^8.5.24"
     prisma: "npm:^5.14.0"
     qrcode: "npm:^1.5.3"
     react: "npm:^18.3.1"
@@ -8300,7 +8300,7 @@ __metadata:
     recharts: "npm:^2.12.7"
     tailwindcss: "npm:^3.4.3"
     typescript: "npm:^5.4.5"
-    uuid: "npm:^14.0.0"
+    uuid: "npm:^14.0.1"
     yup: "npm:^1.4.0"
   languageName: unknown
   linkType: soft
@@ -8792,12 +8792,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"uuid@npm:^14.0.0":
-  version: 14.0.0
-  resolution: "uuid@npm:14.0.0"
+"uuid@npm:^14.0.1":
+  version: 14.0.1
+  resolution: "uuid@npm:14.0.1"
   bin:
     uuid: dist-node/bin/uuid
-  checksum: 10c0/a57ae7794c45005c1a9208989196c5baf79a7679c30f43c1bee9033a2c4d113a2cea216fa6fcc9663b08b0d55635df1a7c6eb7e7f3d21c3e50688c698fa39a50
+  checksum: 10c0/2d961289097cb68c37d93d1da0b5c3aafc1eb9948a455cca8d0ae53a099b2fe583b8933254a84097f700e6bac2e23033364904df0467c22551d5d9611febcaf6
   languageName: node
   linkType: hard
 
